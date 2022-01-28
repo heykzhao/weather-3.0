@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const APIKey = process.env.REACT_APP_API_KEY;
 
 export async function getCityCoordinates(city) {
@@ -16,9 +17,16 @@ export async function getCityCoordinates(city) {
 
 async function getWeatherArrayHourly(obj) {
   const weatherArray = [];
-  for (let i = 0; i < obj.length; i += 1) {
+  const firstArrayItem = {
+    hour: "Now",
+    temperature: obj[0].temp,
+    description: obj[0].weather[0].main,
+    icon: obj[0].weather[0].icon,
+  }
+  weatherArray.push(firstArrayItem);
+  for (let i = 1; i < obj.length; i += 1) {
     const arrayItem = {
-      date: new Date(obj[i].dt * 1000).getHours(),
+      hour: new Date(obj[i].dt * 1000).toLocaleTimeString("en-us", {hour12: true, hour: "numeric"}),
       temperature: obj[i].temp,
       description: obj[i].weather[0].main,
       icon: obj[i].weather[0].icon,
@@ -30,9 +38,16 @@ async function getWeatherArrayHourly(obj) {
 
 async function getWeatherArrayDaily(obj) {
   const weatherArray = [];
-  for (let i = 0; i < obj.length; i += 1) {
+  const firstArrayItem = {
+    day: "Today",
+    minTemperature: obj[i].temp.min,
+    maxTemperature: obj[i].temp.max,
+    icon: obj[i].weather[0].icon,
+  }
+  weatherArray.push(firstArrayItem);
+  for (let i = 1; i < obj.length; i += 1) {
     const arrayItem = {
-      date: new Date(obj[i].dt * 1000).getDay(),
+      day: new Date(obj[i].dt * 1000).toLocaleDateString("en-us", {weekday: "short"}),
       minTemperature: obj[i].temp.min,
       maxTemperature: obj[i].temp.max,
       icon: obj[i].weather[0].icon,

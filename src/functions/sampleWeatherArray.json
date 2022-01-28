@@ -1,352 +1,352 @@
 {
-  "currentWeather": {
-      "currentTime": "",
-      "currentTemp": null,
-      "currentFeelsLike": null,
-      "currentHumidity": null,
-      "currentWindSpeed": null,
-      "currentDescription": "",
-      "currentDetails": "",
-      "currentIcon": "01d"
-  },
-  "hourlyWeather": [
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      },
-      {
-          "date": null,
-          "temperature": null,
-          "description": "",
-          "icon": ""
-      }
-  ],
-  "dailyWeather": [
-      {
-          "date": null,
-          "minTemperature": null,
-          "maxTemperature": null,
-          "icon": ""
-      },
-      {
-          "date": null,
-          "minTemperature": null,
-          "maxTemperature": null,
-          "icon": ""
-      },
-      {
-          "date": null,
-          "minTemperature": null,
-          "maxTemperature": null,
-          "icon": ""
-      },
-      {
-          "date": null,
-          "minTemperature": null,
-          "maxTemperature": null,
-          "icon": ""
-      },
-      {
-          "date": null,
-          "minTemperature": null,
-          "maxTemperature": null,
-          "icon": ""
-      },
-      {
-          "date": null,
-          "minTemperature": null,
-          "maxTemperature": null,
-          "icon": ""
-      },
-      {
-          "date": null,
-          "minTemperature": null,
-          "maxTemperature": null,
-          "icon": ""
-      },
-      {
-          "date": null,
-          "minTemperature": null,
-          "maxTemperature": null,
-          "icon": ""
-      }
-  ]
+    "currentWeather": {
+        "currentTime": "2022-01-28T18:46:43.000Z",
+        "currentTemp": 20.3,
+        "currentFeelsLike": 16.09,
+        "currentHumidity": 77,
+        "currentWindSpeed": 3,
+        "currentDescription": "Clouds",
+        "currentDetails": "overcast clouds",
+        "currentIcon": "04d"
+    },
+    "hourlyWeather": [
+        {
+            "hour": "Now",
+            "temperature": 20.25,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "2 PM",
+            "temperature": 20.3,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "3 PM",
+            "temperature": 19.99,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "4 PM",
+            "temperature": 18.97,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "5 PM",
+            "temperature": 16.77,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "6 PM",
+            "temperature": 13.42,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "7 PM",
+            "temperature": 9.88,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "8 PM",
+            "temperature": 7.11,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "9 PM",
+            "temperature": 4.62,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "10 PM",
+            "temperature": 3.22,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "11 PM",
+            "temperature": 2.37,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "12 AM",
+            "temperature": 1.98,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "1 AM",
+            "temperature": 2.3,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "2 AM",
+            "temperature": 2.62,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "3 AM",
+            "temperature": 2.59,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "4 AM",
+            "temperature": 2.41,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "5 AM",
+            "temperature": 2.39,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "6 AM",
+            "temperature": 2.16,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "7 AM",
+            "temperature": 2.37,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "8 AM",
+            "temperature": 3.61,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "9 AM",
+            "temperature": 9.91,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "10 AM",
+            "temperature": 13.51,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "11 AM",
+            "temperature": 14.43,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "12 PM",
+            "temperature": 14.94,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "1 PM",
+            "temperature": 14.88,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "2 PM",
+            "temperature": 14.49,
+            "description": "Clouds",
+            "icon": "03d"
+        },
+        {
+            "hour": "3 PM",
+            "temperature": 13.89,
+            "description": "Clouds",
+            "icon": "03d"
+        },
+        {
+            "hour": "4 PM",
+            "temperature": 12.9,
+            "description": "Clouds",
+            "icon": "02d"
+        },
+        {
+            "hour": "5 PM",
+            "temperature": 9.88,
+            "description": "Clouds",
+            "icon": "02d"
+        },
+        {
+            "hour": "6 PM",
+            "temperature": 2.52,
+            "description": "Clouds",
+            "icon": "02n"
+        },
+        {
+            "hour": "7 PM",
+            "temperature": -0.31,
+            "description": "Clouds",
+            "icon": "02n"
+        },
+        {
+            "hour": "8 PM",
+            "temperature": -1.7,
+            "description": "Clouds",
+            "icon": "03n"
+        },
+        {
+            "hour": "9 PM",
+            "temperature": -1.32,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "10 PM",
+            "temperature": 1.53,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "11 PM",
+            "temperature": 1.96,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "12 AM",
+            "temperature": 1.27,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "1 AM",
+            "temperature": 1.13,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "2 AM",
+            "temperature": 1.96,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "3 AM",
+            "temperature": 2.34,
+            "description": "Clouds",
+            "icon": "03n"
+        },
+        {
+            "hour": "4 AM",
+            "temperature": 3.47,
+            "description": "Clouds",
+            "icon": "03n"
+        },
+        {
+            "hour": "5 AM",
+            "temperature": 7.66,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "6 AM",
+            "temperature": 9.5,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "7 AM",
+            "temperature": 10.36,
+            "description": "Clouds",
+            "icon": "04n"
+        },
+        {
+            "hour": "8 AM",
+            "temperature": 11.39,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "9 AM",
+            "temperature": 14.07,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "10 AM",
+            "temperature": 17.38,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "11 AM",
+            "temperature": 20.46,
+            "description": "Clouds",
+            "icon": "04d"
+        },
+        {
+            "hour": "12 PM",
+            "temperature": 23.07,
+            "description": "Clouds",
+            "icon": "04d"
+        }
+    ],
+    "dailyWeather": [
+        {
+            "day": "Today",
+            "minTemperature": 2.37,
+            "maxTemperature": 24.33,
+            "icon": "13d"
+        },
+        {
+            "day": "Sat",
+            "minTemperature": -1.7,
+            "maxTemperature": 14.94,
+            "icon": "04d"
+        },
+        {
+            "day": "Sun",
+            "minTemperature": 1.13,
+            "maxTemperature": 27.61,
+            "icon": "13d"
+        },
+        {
+            "day": "Mon",
+            "minTemperature": 15.73,
+            "maxTemperature": 29.32,
+            "icon": "04d"
+        },
+        {
+            "day": "Tue",
+            "minTemperature": 24.24,
+            "maxTemperature": 38.62,
+            "icon": "10d"
+        },
+        {
+            "day": "Wed",
+            "minTemperature": 27.91,
+            "maxTemperature": 33.71,
+            "icon": "13d"
+        },
+        {
+            "day": "Thu",
+            "minTemperature": 23.74,
+            "maxTemperature": 35.04,
+            "icon": "13d"
+        },
+        {
+            "day": "Fri",
+            "minTemperature": 7.48,
+            "maxTemperature": 18.9,
+            "icon": "13d"
+        }
+    ]
 }

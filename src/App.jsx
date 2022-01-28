@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useState } from 'react';
 
 import './styles/Reset.css';
@@ -6,11 +7,12 @@ import './styles/App.css';
 import LoadHandling from './components/LoadHandling';
 
 import emptyWeatherArray from './functions/emptyWeatherArray.json';
+import sampleWeatherArray from './functions/sampleWeatherArray.json';
 
 export default function App() {
   const [allData, setAllData] = useState({
-    weather: emptyWeatherArray,
-    city: '',
+    weather: sampleWeatherArray,
+    city: 'Cleveland Heights',
     coordinates: { lat: '', lon: '' },
     units: 'imperial',
     searchQuery: '',

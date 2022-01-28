@@ -41,20 +41,22 @@ form {
   height: 50px;
   max-width: 275px;
   width: 100%;
-  padding: 10px 10px;
-  background: white;
+  padding: 5px 5px;
+  background: rgb(245, 226, 60);
+  /* background: white; */
   border-style: solid;
   border-color: black;
   border-radius: 10px;
   border-width: 3px;
   margin: 10px 10px;
-  padding: 5px 10px;
+  box-shadow: 3px 3px black;
 }
 .logo-container--logo {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  filter: brightness(0) invert(0);
 }
 .logo-container--image {
   height: 30px;
@@ -65,14 +67,15 @@ form {
   line-height: 25px;
   font-weight: 900;
   letter-spacing: -1px;
-  background: rgb(2,112,193);
+  word-spacing: 5px;
+  /* background: rgb(2,112,193);
   background: linear-gradient(45deg, rgba(2,112,193,1) 0%, rgba(112,112,242,1) 43%, rgba(130,116,241,1) 100%);
   background-size: 100%;
   background-clip: text;
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
+  -moz-text-fill-color: transparent; */
 }
 
 .search-units-container {
@@ -145,7 +148,7 @@ form {
   height: 20px;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 850px) {
   .header-container {
     flex-direction: column;
     justify-content: start;
@@ -154,8 +157,7 @@ form {
   }
   .logo-container {
     height: 35px;
-    max-width: 200px;
-    padding: 5px 5px;
+    max-width: 210px;
     margin: 10px 10px;
     padding: 5px 10px;
   }

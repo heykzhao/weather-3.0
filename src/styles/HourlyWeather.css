@@ -1,0 +1,33 @@
+.hourly-weather-container {
+  margin: auto;
+  width: 70%;
+  max-width: 520px;
+  padding-top: 20px;
+}
+.hourly-weather-cards {
+  display: flex;
+  flex-direction: row;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.hourly-weather-cards::-webkit-scrollbar {
+    display: none;
+}
+.hourly-weather-text {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 12px;
+  margin-bottom: 6px;
+  color: white;
+  text-shadow: 3px 3px black;
+}
+
+@media only screen and (max-width: 850px) {
+  .hourly-weather-container {
+    width: 80%;
+  }
+  .hourly-weather-text {
+    margin-left: 5px;
+  }
+}

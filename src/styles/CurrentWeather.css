@@ -1,3 +1,7 @@
+.strong {
+  font-weight: 700;
+  padding-right: 5px;
+}
 .current-weather-container {
   display: flex;
   justify-content: center;
@@ -6,17 +10,81 @@
 .cw-card {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  width: 80%;
+  width: 70%;
+  max-width: 520px;
   font-family: "Poppins", Arial, Helvetica, sans-serif;
   border: 2px black solid;
   border-radius: 8px;
-  background-color: white;
+  background: rgb(245, 226, 60);
   margin: 10px;
+  padding: 10px;
+  box-shadow: 6px 6px black;
 }
 .cw {
   display: flex;
 }
-.cw-icon {
-  width: 30px;
+
+.cw-time-and-last-updated {
+  flex-direction: column;
+  font-size: 14px;
+}
+.cw-last-updated {
+  font-weight: 700;
+}
+.cw-current-time {
+  font-style: italic;
+}
+
+.cw-city-and-temperature {
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;
+}
+.cw-city-name {
+  font-size: 20px;
+  font-weight: 200;
+}
+.cw-temperature {
+  font-size: 50px;
+  padding-top: 5px;
+  font-weight: 700;
+}
+.cw-feels-like {
+  font-style: italic;
+}
+
+.cw-description-details-icon {
+  flex-direction: row;
+  justify-content: center;
+}
+.cw-description-details-text {
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.cw-description{
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.cw-details {
+  font-weight: 200;
+  text-transform: capitalize;
+}
+
+.cw-icon { 
+  height: 80px;
+}
+.cw-humidity-wind-speed {
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 40px;
+  font-size: 14px;
+}
+@media only screen and (max-width: 850px) {
+  .cw-humidity-wind-speed {
+    padding: 5px 5px;
+    font-size: 12px;
+
+  }
 }

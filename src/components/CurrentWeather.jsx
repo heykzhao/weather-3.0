@@ -29,7 +29,7 @@ export default function CurrentWeather({ item, city, units }) {
 
   const date = new Date(currentTime);
   const dayYearMonthDate = date.toLocaleString('en-us', {
-    weekday: 'long', year: 'numeric', month: 'long', date: 'numeric',
+    weekday: 'long', year: 'numeric', month: 'long', day: 'numeric',
   });
   const time = date.toLocaleTimeString([], {
     hour12: true, hour: '2-digit', minute: '2-digit',
@@ -40,19 +40,30 @@ export default function CurrentWeather({ item, city, units }) {
   return (
     <div className="current-weather-container">
       <div className="cw-card">
-        <div className="cw current-time">Last updated at: {dayYearMonthDate} at {time}</div>
-        <div className="cw city-name">{city}</div>
-        <img
-          alt="Current weather icon"
-          src={iconSource}
-          className="cw cw-icon"
-        />
-        <div className="cw cw-description">{currentDescription}</div>
-        <div className="cw cw-details">{currentDetails}</div>
-        <div className="cw cw-temperature">{currentTemp}{tempUnitsToDisplay}</div>
-        <div className="cw cw-feels-like">{currentFeelsLike}{tempUnitsToDisplay}</div>
-        <div className="cw cw-humidity">{currentHumidity}%</div>
-        <div className="cw cw-wind-speed">{currentWindSpeed} {windSpeedUnitsToDisplay}</div>
+        <div className="cw cw-time-and-last-updated">
+          <div className="cw cw-last-updated">Last updated at: </div>
+          <div className="cw cw-current-time">{dayYearMonthDate} at {time}</div>
+        </div>
+        <div className="cw cw-city-and-temperature">
+          <div className="cw cw-city-name">{city}</div>
+          <div className="cw cw-temperature">{Math.round(currentTemp)}{tempUnitsToDisplay}</div>
+          <div className="cw cw-feels-like">Feels Like: {Math.round(currentFeelsLike)}{tempUnitsToDisplay}</div>
+        </div>
+        <div className="cw cw-description-details-icon">
+          <img
+            alt="Current weather icon"
+            src={iconSource}
+            className="cw cw-icon"
+          />
+          <div className="cw cw-description-details-text">
+            <div className="cw cw-description">{currentDescription}</div>
+            <div className="cw cw-details">{currentDetails}</div>
+          </div>
+        </div>
+        <div className="cw cw-humidity-wind-speed">
+          <div className="cw cw-humidity"><span className="strong">Humidity:</span>{currentHumidity}%</div>
+          <div className="cw cw-wind-speed"><span className="strong">Wind Speed:</span>{currentWindSpeed} {windSpeedUnitsToDisplay}</div>
+        </div>
       </div>
     </div>
   );

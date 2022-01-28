@@ -7,346 +7,346 @@
         "currentWindSpeed": null,
         "currentDescription": "",
         "currentDetails": "",
-        "currentIcon": "01d"
+        "currentIcon": "04d"
     },
     "hourlyWeather": [
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "03d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "03d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "02d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "02d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "02n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "02n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "03n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "03n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "03n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04n"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
-            "temperature": null,
+            "hour": "",
+            "temperature": "",
             "description": "",
-            "icon": ""
+            "icon": "04d"
         }
     ],
     "dailyWeather": [
         {
-            "date": null,
+            "day": "",
             "minTemperature": null,
             "maxTemperature": null,
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
+            "day": "",
             "minTemperature": null,
             "maxTemperature": null,
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
+            "day": "",
             "minTemperature": null,
             "maxTemperature": null,
-            "icon": ""
+            "icon": "13d"
         },
         {
-            "date": null,
+            "day": "",
             "minTemperature": null,
             "maxTemperature": null,
-            "icon": ""
+            "icon": "04d"
         },
         {
-            "date": null,
+            "day": "",
             "minTemperature": null,
             "maxTemperature": null,
-            "icon": ""
+            "icon": "10d"
         },
         {
-            "date": null,
+            "day": "",
             "minTemperature": null,
             "maxTemperature": null,
-            "icon": ""
+            "icon": "13d"
         },
         {
-            "date": null,
+            "day": "",
             "minTemperature": null,
             "maxTemperature": null,
-            "icon": ""
+            "icon": "13d"
         },
         {
-            "date": null,
+            "day": "",
             "minTemperature": null,
             "maxTemperature": null,
-            "icon": ""
+            "icon": "13d"
         }
     ]
 }

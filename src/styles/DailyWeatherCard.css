@@ -1,0 +1,92 @@
+.dw-card {
+  display: flex;
+  flex-direction: row;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  min-width: 95%;
+  border: 2px black solid;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: 5px 5px black;
+  background: rgb(245, 226, 60);
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0px;
+}
+
+.dw-day {
+  padding-left: 40px;
+  min-width: 90px;
+  font-weight: 700;
+}
+
+.dw-icon {
+  width: 50px;
+}
+
+.dw-min-max {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 40px;
+}
+.dw-min-temperature {
+  font-weight: 700;
+  min-width: 40px;
+  padding-right: 5px;
+  text-align: center;
+}
+.dw-range-bar {
+  height: 4px;
+  width: 98px;
+  border-radius: 10px;
+  border: 1px black solid;
+}
+.dw-max-temperature {
+  font-weight: 700;
+  padding-left: 5px;
+  min-width: 40px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 850px) {
+  .dw-day {
+    padding-left: 20px;
+    min-width: 50px;
+    font-size: 15px;
+  }
+  
+  .dw-icon {
+    width: 50px;
+  }
+  
+  .dw-min-max {
+    padding-right: 20px;
+    font-size: 15px;
+  }
+
+  .dw-min-temperature {
+    font-weight: 700;
+    min-width: 40px;
+    padding-right: 5px;
+    text-align: center;
+  }
+  .dw-range-bar {
+    height: 3px;
+    width: 48px;
+    border-radius: 10px;
+    border: 1px black solid;
+  }
+  .dw-range {
+    width: 50%;
+    border: 1px black solid;
+    height: 100%;
+    background-color: black;
+  }
+  .dw-max-temperature {
+    font-weight: 700;
+    padding-left: 5px;
+    min-width: 40px;
+    text-align: center;
+  }
+}
