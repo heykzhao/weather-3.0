@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
 import '../styles/Header.css';
-import sweaterIcon from '../images/sweater.png';
+import dogeIcon from '../images/doge.png';
 import currentLocationIcon from '../images/current-location.png';
 
 export default function Header({
@@ -16,12 +16,12 @@ export default function Header({
       <div className="logo-container">
         <div className="logo-container--logo">
           <img
-            alt="Sweater by ColourCreatype on freeicons.io"
-            src={sweaterIcon}
+            alt="Doge icon by Icons8"
+            src={dogeIcon}
             className="logo-container--image"
           />
           <span className="logo-container--text">
-            Sweater Weather
+            weather 3.0
           </span>
         </div>
       </div>

@@ -39,7 +39,7 @@ form {
   justify-content: center;
   align-items: center;
   height: 50px;
-  max-width: 275px;
+  max-width: 235px;
   width: 100%;
   padding: 5px 5px;
   background: rgb(245, 226, 60);
@@ -59,7 +59,7 @@ form {
   filter: brightness(0) invert(0);
 }
 .logo-container--image {
-  height: 30px;
+  height: 35px;
   margin-right: 6px;
 }
 .logo-container--text {
@@ -67,7 +67,7 @@ form {
   line-height: 25px;
   font-weight: 900;
   letter-spacing: -1px;
-  word-spacing: 5px;
+  word-spacing: 0px;
   /* background: rgb(2,112,193);
   background: linear-gradient(45deg, rgba(2,112,193,1) 0%, rgba(112,112,242,1) 43%, rgba(130,116,241,1) 100%);
   background-size: 100%;
@@ -157,7 +157,7 @@ form {
   }
   .logo-container {
     height: 35px;
-    max-width: 210px;
+    max-width: 180px;
     margin: 10px 10px;
     padding: 5px 10px;
   }
