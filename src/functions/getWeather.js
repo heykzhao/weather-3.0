@@ -40,9 +40,9 @@ async function getWeatherArrayDaily(obj) {
   const weatherArray = [];
   const firstArrayItem = {
     day: "Today",
-    minTemperature: obj[i].temp.min,
-    maxTemperature: obj[i].temp.max,
-    icon: obj[i].weather[0].icon,
+    minTemperature: obj[0].temp.min,
+    maxTemperature: obj[0].temp.max,
+    icon: obj[0].weather[0].icon,
   }
   weatherArray.push(firstArrayItem);
   for (let i = 1; i < obj.length; i += 1) {
@@ -84,7 +84,6 @@ export async function getCurrentCoordinatesWeather(lat, lon, units) {
       hourlyWeather,
       dailyWeather,
     };
-    console.log(allWeather);
     return allWeather;
   } catch (error) {
     return console.warn(error);

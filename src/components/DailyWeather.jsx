@@ -13,9 +13,6 @@ export default function DailyWeather({ item, units }) {
   const maxTemperatureInWeek = Math.max(...allTemperatures);
   const minTemperatureInWeek = Math.min(...allTemperatures);
 
-  console.log(maxTemperatureInWeek);
-  console.log(minTemperatureInWeek);
-
   const dailyWeatherCards = item.map((item, index) => {
     return (
       <DailyWeatherCard 
