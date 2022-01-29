@@ -3,7 +3,7 @@ const APIKey = process.env.REACT_APP_API_KEY;
 
 export async function getCityCoordinates(city) {
   try {
-    const response = await fetch(`http://api.openweathermap.org/geo/1.0/direct?q=${city}&limit=1&appid=${APIKey}`);
+    const response = await fetch(`https://api.openweathermap.org/geo/1.0/direct?q=${city}&limit=1&appid=${APIKey}`);
     const data = await response.json();
     const currentCityCoord = {
       lat: data[0].lat,

@@ -32,7 +32,7 @@ export default function DailyWeatherCard(props) {
       <div className="dw-day">{dateString}</div>
       <img 
         alt="Current weather icon"
-        src={`http://openweathermap.org/img/wn/${props.icon}@2x.png`}
+        src={`https://openweathermap.org/img/wn/${props.icon}@2x.png`}
         className="dw-icon"
       />
       <div className="dw-description">{props.description}</div>

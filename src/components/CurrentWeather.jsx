@@ -35,7 +35,7 @@ export default function CurrentWeather({ item, city, units }) {
     hour12: true, hour: '2-digit', minute: '2-digit',
   });
 
-  const iconSource = `http://openweathermap.org/img/wn/${currentIcon}@2x.png`;
+  const iconSource = `https://openweathermap.org/img/wn/${currentIcon}@2x.png`;
 
   return (
     <div className="current-weather-container">

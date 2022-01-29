@@ -16,7 +16,7 @@ export default function HourlyWeatherCard(props) {
       <div className="hw-time">{timeString}</div>
       <img 
         alt="Current weather icon"
-        src={`http://openweathermap.org/img/wn/${props.icon}@2x.png`}
+        src={`https://openweathermap.org/img/wn/${props.icon}@2x.png`}
         className="hw-icon"
       />
       <div className="hw-description">{props.description}</div>
